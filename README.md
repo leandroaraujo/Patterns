@@ -1,2 +1,7 @@
 # Patterns
-Implementação de patterns O.O
+====================================
+O.O Patterns implementations using .Net Core
+
+List of patterns:
+* Singleton
+* 
